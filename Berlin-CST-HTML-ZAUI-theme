@@ -1,0 +1,68 @@
+<div id="header">
+		<div class="wrap">
+			<div class="sharing">
+						<a href="http://instagram.com/fattireberlin" target="_blank" class="instagram">Instagram</a>
+						<a href="http://www.pinterest.com/fattireberlin" target="_blank" class="pinterest">Pinterest</a>
+						<a href="http://barcelonacst.louddevelopment.com/blog/" target="_blank" class="rss">RSS</a>
+						<a href="https://www.facebook.com/CitySegwayTours" target="_blank" class="facebook">Facebook</a>
+						<a href="https://twitter.com/CitySegwayTours" target="_blank" class="twitter">Twitter</a>
+			</div>
+			<div class="cart">
+				<div class="btn-flag-checkout">
+				<a href="https://fattirebiketours.zaui.net/berlin/data/portals/segway-sandbox/index.php?action=Contents"class ="checkout">Checkout</a>
+				<a href="http://berlincstde.louddevelopment.com/" target="_blank" class="german">German Site</a>
+				<a href="http://berlincst.louddevelopment.com/" class="english">English Site</a>
+			</div>	</div>			
+			<div class="clear"><a href="http://berlin.citysegwaytours.com/" class="logo"></a></div>
+		</div>
+	</div>
+	<div id="menu" class="clear">
+		<ul id="nav" class="group">
+			<li><a href="http://berlin.citysegwaytours.com/" class="home">Home</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/tours" class="tour">Tours</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/private-tours" class="private-tours">Private Tours</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/specials" class="specials">Specials</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/why-us" class="why-us">Why Us?</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/faqs" class="faqs">FAQ's</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/blog" class="blog">Blog</a></li>
+			<li><a href="http://berlin.citysegwaytours.com/contact" class="contact">Contact</a></li>
+		</ul>
+	</div>
+   </div><!-- #head -->
+</div><!-- #wrap -->
+	<div id="footer-ep">
+		<div class="shadow">
+			<div class="wrap">
+				<div class="pdf"><p><a href="http://barcelonacst.louddevelopment.com/filebin/files/fat-tire-bike-tours-city-segway-tours-brochure.pdf" target="_blank"><img src="http://paris.easypasstours.com/images/pdf-brochure.png" alt=""></a></p></div>
+				<div class="menu">
+					<a href="http://berlin.citysegwaytours.com/" target="_self">Home</a><a href="http://berlin.citysegwaytours.com/tours" target="_self">Tours</a><a href="http://berlin.citysegwaytours.com/private-tours" target="_self">Private Tours</a><a href="http://berlin.citysegwaytours.com/specials" target="_self">Specials</a><a href="http://berlin.citysegwaytours.com/why-us" target="_self">Why Us?</a><a href="http://berlin.citysegwaytours.com/faqs" target="_self">FAQ's</a><a href="http://berlin.citysegwaytours.com/blog" target="_self">Blog</a><a href="http://berlin.citysegwaytours.com/contact" target="_self">Contact</a>				</div>
+				<div class="addy-phone"><p><span class="street_address"><a href="https://maps.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Panoramastra%C3%9Fe+1A,+Berlin,+Deutschland&aq=0&oq=panor&sll=52.506844,13.424732&sspn=0.589287,1.454315&vpsrc=6&ie=UTF8&hq=&hnear=Panoramastra%C3%9Fe+1a,+Bezirk+Mitte+10178+Berlin,+Deutschland&t=m&z=16" target="_blank">Panoramastr. 1a | 10178 Berlin, Germany</a></span>&nbsp;<span class="phone_number">+49 (0)30 2404.7991</span></p></div>
+				
+				<div class="sharing">
+					
+					<a href="mailto:?subject=Visit Berlin Segway Tour | Sightseeing Tours | City Segway Tours - Berlin	&amp;body=I was just visiting the Berlin Segway Tour | Sightseeing Tours | City Segway Tours - Berlin	 website, and I thought you should see it. Check it out at http://barcelonacst.louddevelopment.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://barcelonacst.louddevelopment.com/&amp;title=Berlin+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Berlin%09" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+Berlin+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Berlin%09+-+http://barcelonacst.louddevelopment.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://barcelonacst.louddevelopment.com/%2F&amp;t=Berlin+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Berlin%09" target="_blank">Send To Facebook</a>	
+				</div>
+
+				<!-- <div class="sharing">
+					
+					<a href="mailto:?subject=Visit Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris&amp;body=I was just visiting the Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris website, and I thought you should see it. Check it out at http://paris.easypasstours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://paris.easypasstours.com/&amp;title=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris+-+http://paris.easypasstours.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://paris.easypasstours.com/%2F&amp;t=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To Facebook</a>	
+				</div> -->
+			</div>
+	
+		</div>
+		<div class="wrap copyright">
+		<p>City Segway Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/><a href="http://barcelonacst.louddevelopment.com/pages/terms-conditions/overview">Terms &amp; Conditions</a> | <a href="http://barcelonacst.louddevelopment.com/pages/terms-conditions/overview">We use cookies on this website. By using cookies you understand &amp; agree to these terms.</a></p>		</div>	
+	</div>
+<script>
+jQuery(document).ready(function(){ 
+jQuery('input[name="username"]').attr('placeholder','Username'); 
+jQuery('input[name="password"]').attr('placeholder','Password'); 
+});
+</script>
+<div class="wrap"><div>
