@@ -1,0 +1,63 @@
+<div id="header">
+		<div class="wrap">
+			<div class="sharing">
+						<a class="instagram" href="http://instagram.com/cstmunich" target="_blank">Instagram</a> <a class="pinterest" href="https://www.www.pinterest.com/cstmunich/" target="_blank">Pinterest</a> <a class="rss" href="http://munich.citysegwaytours.com/blog/" target="_blank">RSS</a> <a class="facebook" href="http://www.facebook.com/citysegwaymunich" target="_blank">Facebook</a> <a class="twitter" href="https://twitter.com/cstmunich" target="_blank">Twitter</a></div>
+			<div class="cart">
+				<div class="btn-flag-checkout">
+				<a href="https://citysegwaytours.zaui.net/munich/data/portals/segway-sandbox/index.php?action=Contents"class ="checkout">Checkout</a>
+				<a href="http://muenchen.citysegwaytours.de/" target="_blank" class="german">German Site</a>
+				<a href="http://munich.citysegwaytours.com/" class="english">English Site</a>
+			</div>	</div>			
+			<div class="clear"><a href="http://munich.citysegwaytours.com" class="logo"></a></div>
+		</div>
+	</div>
+	<div id="menu" class="clear">
+		<ul id="nav" class="group">
+			<li><a href="http://munich.citysegwaytours.com" class="home">Home</a></li>
+			<li><a href="http://munich.citysegwaytours.com/tours" class="tour">Tours</a></li>
+			<li><a href="http://munich.citysegwaytours.comp/rivate-tours" class="private-tours">Private Tours</a></li>
+			<li><a href="http://munich.citysegwaytours.com/specials" class="specials">Specials</a></li>
+			<li><a href="http://munich.citysegwaytours.com/why-us" class="why-us">Why Us?</a></li>
+			<li><a href="http://munich.citysegwaytours.com/faqs" class="faqs">FAQ's</a></li>
+			<li><a href="http://munich.citysegwaytours.com/blog" class="blog">Blog</a></li>
+			<li><a href="http://munich.citysegwaytours.com/contact" class="contact">Contact</a></li>
+		</ul>
+	</div>
+   </div><!-- #head -->
+</div><!-- #wrap -->
+	<div id="footer-ep">
+		<div class="shadow">
+			<div class="wrap">
+				<div class="pdf"><p><a href="http://munich.citysegwaytours.com/filebin/files/fat-tire-bike-tours-city-segway-tours-brochure.pdf" target="_blank"><img src="http://paris.easypasstours.com/images/pdf-brochure.png" alt=""></a></p></div>
+				<div class="menu">
+					<a href="http://munich.citysegwaytours.com" target="_self">Home</a><a href="http://munich.citysegwaytours.com/tours" target="_self">Tours</a><a href="http://munich.citysegwaytours.com/private-tours" target="_self">Private Tours</a><a href="http://munich.citysegwaytours.com/specials" target="_self">Specials</a><a href="http://munich.citysegwaytours.com/why-us" target="_self">Why Us?</a><a href="http://munich.citysegwaytours.com/faqs" target="_self">FAQ's</a><a href="http://munich.citysegwaytours.com/blog" target="_self">Blog</a><a href="http://munich.citysegwaytours.com/contact" target="_self">Contact</a>				</div>
+				<div class="addy-phone"><p><span class="street_address"><a href="https://goo.gl/maps/Fr41E" target="_blank">Karlsplatz 480335 | München, Germany</a></span>&nbsp;<span class="phone_number">+49 89 23 88 87 98</span></p></div>
+				
+				<div class="sharing">
+					
+					<a href="mailto:?subject=Visit Munich Segway Tour | Sightseeing Tours | City Segway Tours - Munich	&amp;body=I was just visiting the Munich Segway Tour | Sightseeing Tours | City Segway Tours - Munich	 website, and I thought you should see it. Check it out at http://munich.citysegwaytours.com">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://munich.citysegwaytours.com&amp;title=Munich+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Munich%09" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+Munich+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Munich%09+-+http://munich.citysegwaytours.com" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://munich.citysegwaytours.com%2F&amp;t=Munich+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Munich%09" target="_blank">Send To Facebook</a>	
+				</div>
+
+				<!-- <div class="sharing">
+					
+					<a href="mailto:?subject=Visit Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris&amp;body=I was just visiting the Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris website, and I thought you should see it. Check it out at http://paris.easypasstours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://paris.easypasstours.com/&amp;title=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris+-+http://paris.easypasstours.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://paris.easypasstours.com/%2F&amp;t=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To Facebook</a>	
+				</div> -->
+			</div>
+	
+		</div>
+		<div class="wrap copyright">
+		<p>City Segway Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/><a href="http://munich.citysegwaytours.com/pages/terms-conditions/overview">Terms &amp; Conditions</a> | <a href="http://munich.citysegwaytours.com/pages/terms-conditions/overview">We use cookies on this website. By using cookies you understand &amp; agree to these terms.</a></p>		</div>	
+	</div>
+<script>
+jQuery(document).ready(function(){ 
+jQuery('input[name="username"]').attr('placeholder','Username'); 
+jQuery('input[name="password"]').attr('placeholder','Password'); 
+});
+</script>
+<div class="wrap"><div>
