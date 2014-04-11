@@ -1,66 +1,1095 @@
-<div id="header">
-		<div class="wrap">
-			<div class="sharing">
-						<a href="http://instagram.com/segwayparis" target="_blank" class="instagram">Instagram</a>
-						<a href="http://paris.citysegwaytours.com/#" target="_blank" class="pinterest">Pinterest</a>
-						<a href="http://paris.citysegwaytours.com/blog/feed" target="_blank" class="rss">RSS</a>
-						<a href="https://www.facebook.com/CitySegwayToursParis" target="_blank" class="facebook">Facebook</a>
-						<a href="https://twitter.com/SegwayParis" target="_blank" class="twitter">Twitter</a>
-			</div>
-			<div class="cart">
-				<a href="https://fattirebiketours.zaui.net/paris/data/portals/segway-tours/index.php?action=Contents" class="btn-checkout">Checkout</a>
-			</div>			
-			<div class="clear"><a href="http://paris.citysegwaytours.com/" class="logo"></a></div>
-		</div>
-	</div>
-	<div id="menu" class="clear">
-		<ul id="nav" class="group">
-			<li><a href="http://paris.citysegwaytours.com/" class="home">Home</a></li>
-			<li><a href="http://paris.citysegwaytours.com/tours" class="tour">Tours</a></li>
-			<li><a href="http://paris.citysegwaytours.com/private-tours" class="private-tours">Private Tours</a></li>
-			<li><a href="http://paris.citysegwaytours.com/specials" class="specials">Specials</a></li>
-			<li><a href="http://paris.citysegwaytours.com/why-us" class="why-us">Why Us?</a></li>
-			<li><a href="http://paris.citysegwaytours.com/faqs" class="faqs">FAQ's</a></li>
-			<li><a href="http://paris.citysegwaytours.com/blog" class="blog">Blog</a></li>
-			<li><a href="http://paris.citysegwaytours.com/contact" class="contact">Contact</a></li>
-		</ul>
-	</div>
-   </div><!-- #head -->
-</div><!-- #wrap -->
-	<div id="footer-ep">
-		<div class="shadow">
-			<div class="wrap">
-				<div class="pdf"><p><a href="http://paris.citysegwaytours.com/filebin/files/fat-tire-bike-tours-city-segway-tours-brochure.pdf" target="_blank"><img src="http://paris.easypasstours.com/images/pdf-brochure.png" alt=""></a></p></div>
-				<div class="menu">
-					<a href="http://paris.citysegwaytours.com/" target="_self">Home</a><a href="http://paris.citysegwaytours.com/tours" target="_self">Tours</a><a href="http://paris.citysegwaytours.com/private-tours" target="_self">Private Tours</a><a href="http://paris.citysegwaytours.com/specials" target="_self">Specials</a><a href="http://paris.citysegwaytours.com/why-us" target="_self">Why Us?</a><a href="http://paris.citysegwaytours.com/faqs" target="_self">FAQ's</a><a href="http://paris.citysegwaytours.com/blog" target="_self">Blog</a><a href="http://paris.citysegwaytours.com/contact" target="_self">Contact</a>				</div>
-				<div class="addy-phone">
-				  <p><span class="street_address"><a href="https://maps.google.com/maps?q=24+rue+edgar+faure+paris+75015&amp;daddr=24+Rue+Edgar+Faure,+75015+Paris,+France&amp;client=safari&amp;oe=UTF-8&amp;hnear=0x47e6701ecb7680af:0x744ae36feecbae08,24+Rue+Edgar+Faure,+75015+Paris,+France&amp;gl=us&amp;t=m&amp;z=16" target="_blank">24 rue Edgar Faure</a></span><span class="street_address"><a href="https://maps.google.com/maps?q=24+rue+edgar+faure+paris+75015&amp;daddr=24+Rue+Edgar+Faure,+75015+Paris,+France&amp;client=safari&amp;oe=UTF-8&amp;hnear=0x47e6701ecb7680af:0x744ae36feecbae08,24+Rue+Edgar+Faure,+75015+Paris,+France&amp;gl=us&amp;t=m&amp;z=16" target="_blank">Paris, France 75015</a></span>&nbsp;<span class="phone_number">+33.1.56.58.10.54</span>&nbsp;<span class="phone_number">1.866.614.6218</span></p></div>
-				
-				<div class="sharing">
-					
-					<a href="mailto:?subject=Visit Paris Segway Tour | Sightseeing Tours | City Segway Tours - Paris	&amp;body=I was just visiting the Paris Segway Tour | Sightseeing Tours | City Segway Tours - Paris	 website, and I thought you should see it. Check it out at http://paris.citysegwaytours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
-					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://paris.citysegwaytours.com/&amp;title=Paris+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Paris%09" target="_blank">Send To LinkedIn</a>
-					<a href="http://twitter.com/home?status=Check+out+this+link+at+Paris+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Paris%09+-+http://paris.citysegwaytours.com/" target="_blank">Send To Twitter</a>
-					<a href="http://www.facebook.com/sharer.php?u=http://paris.citysegwaytours.com/%2F&amp;t=Paris+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Paris%09" target="_blank">Send To Facebook</a>	
-				</div>
+/*
+*Main page for activity groups
+*/
+@import url(https://fonts.googleapis.com/css?family=Cinzel:700);
+html,body{ height: 100%; }
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	font-size: 12px;
+	line-height: 1.5em;
+	margin: 0;
+}
+table {
+	margin: 0;
+}
+p {
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+ul {
+	margin-left: 30px;
+	list-style: square;	
+}
+ol {
+	list-style: decimal;	
+}
+a {
+	color: #ea5d0d;
+	cursor: pointer;
+}
+h1 {font-size:150%}
+h2 {font-size:135%}
+h3 {font-size:115%}
 
-				<!-- <div class="sharing">
-					
-					<a href="mailto:?subject=Visit Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris&amp;body=I was just visiting the Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris website, and I thought you should see it. Check it out at http://paris.easypasstours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
-					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://paris.easypasstours.com/&amp;title=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To LinkedIn</a>
-					<a href="http://twitter.com/home?status=Check+out+this+link+at+Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris+-+http://paris.easypasstours.com/" target="_blank">Send To Twitter</a>
-					<a href="http://www.facebook.com/sharer.php?u=http://paris.easypasstours.com/%2F&amp;t=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To Facebook</a>	
-				</div> -->
-			</div>
-	
-		</div>
-		<div class="wrap copyright">
-		<p>City Segway Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/><a href="http://paris.easypasstours.com/pages/terms-conditions/overview">Terms &amp; Conditions</a> | <a href="http://paris.easypasstours.com/pages/terms-conditions/overview">We use cookies on this website. By using cookies you understand &amp; agree to these terms.</a></p>		</div>	
-	</div>
-<script>
-jQuery(document).ready(function(){ 
-jQuery('input[name="username"]').attr('placeholder','Username'); 
-jQuery('input[name="password"]').attr('placeholder','Password'); 
-});
-</script>
-<div class="wrap"><div>
+
+#activityGroupWrapper
+{
+   margin:0 auto;
+   padding:0px ;
+   text-align:top;
+}
+#activityGroupContent
+{
+   padding: 5px 10px;
+   background-color:#fafafa;
+}
+/* --- Page Structure  --- */
+.groupContent
+{
+   margin:0;
+   padding:0.5em 0.5em 0.5em;
+   border:1px solid #ccc;
+   position:relative;
+   overflow:hidden
+   text-align:top;
+   font-size:1.5em;
+   text-align:top;
+	border: 1px solid #0089B7;
+	-moz-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-webkit-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-khtml-box-shadow: rgba(200,200,200,1) 0 4px 18px;
+	-moz-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 5px;
+	box-shadow: rgba(200,200,200,1) 0 4px 18px;
+   padding:0.5em 0.5em 1.0em;
+   font-size:1.5em;
+
+   border:1px solid #ccc;
+   position:relative;
+   overflow:hidden
+
+   background-color:white;
+}
+
+.collapse p
+{
+   padding:0 10px 1em
+}
+.top{font-size:.9em; text-align:right}
+#switch, .switch {margin-bottom:5px; text-align:right}
+
+.search_form {
+	text-align: center;
+	width: 100%;
+}
+#searchBoxContainer {
+	width: auto;
+	margin-bottom: 140px;
+}
+.search_form table{ width: 100%; }
+.search_form .big{
+	text-align:right !important;
+	font-size: 15px;
+	color: #000;
+}
+.search_form .big + td{
+	text-align: left !important;
+}
+.search_form .bigger{
+	text-align:center;
+	font-size: 16px;
+	color: #4392cd;
+	font-weight: bold;
+	padding-bottom: 13px;
+}
+.search_form table tr +tr, .search_form table tr +tr +tr {
+	position: absolute;
+	left: 50%;
+	margin-left: -135px;
+}
+.search_form table tr +tr +tr tr td{
+	padding: 20px 0;
+}
+
+.search_form table tr +tr +tr { margin-left: 160px; }
+
+.search_form table tr .sbutton{
+	margin-left: -70px;
+	margin-top: 75px;
+}
+
+#login input[name=username], #login input[name=password]{
+	border: 0;
+	background: url(http://paris.citysegwaytours.com/images/zaui-forms.png) no-repeat;
+	padding: 13px 55px 12px 15px;
+	width: 140px;
+	font-size: 15px;
+}
+#login input[name=password]{
+	background-position: left -56px;
+}
+
+input#startDate_id, input#activityDate_id{
+	border: 0;
+	background: url(http://paris.citysegwaytours.com/images/zaui-forms.png) no-repeat;
+	background-position: left -112px;
+	padding: 13px 55px 12px 15px;
+	width: 140px;
+	font-size: 15px;	
+}
+#activityDetailsContainer .big{ font-size: 12px; vertical-align: middle !important; }
+#activityDetailsContainer #activityContainer .search_form select[name=partySize], #activityDetailsContainer select[name=adults],#activityDetailsContainer select[name=students], #activityDetailsContainer select[name=children]{
+	border: 0;
+	background: url(http://paris.citysegwaytours.com/images/zaui-forms.png) no-repeat;
+	background-position: left -166px;
+	padding: 13px 75px 12px 15px;
+	font-size: 15px;	
+	-webkit-appearance: none;
+}
+
+#singleActivityCreateReservation table tr tr{ vertical-align: top; }
+
+.search_form table tr td{ text-align: center !important; }
+#groupContentDiv .expand
+{
+   background-color:#eeeeee;
+   font-size:1em;
+   text-align:top;
+
+}
+/* --- Headings  --- */
+.expand
+{
+   /*
+   padding-bottom:.75em
+   */
+}
+
+/* --- Links  --- */
+a:link, a:visited
+{
+   border-width:0 0 1px;
+   text-decoration:none;
+}
+a:hover, a:active, a:focus
+{
+}
+a:active, a:focus
+{
+
+}
+.expand a
+{
+   display:block;
+   padding:3px 10px
+}
+.expand
+{
+   border-width:1px;
+   background-image:url('../../../themes/default/img/webBooking/arrow-down.gif');
+   background-repeat:no-repeat;
+   background-position:98% 50%;
+}
+.expand a:hover, .expand a:active, .expand a:focus
+{
+
+}
+.expand a.open:link, .expand a.open:visited
+{
+   border-style:solid;
+   background:#eee url('../../../themes/default/img/webBooking/arrow-up.gif') no-repeat 98% 50%
+}
+
+
+#breadCrumb {
+margin-top: -11px;
+margin-left: -40px;
+overflow: hidden;
+white-space: nowrap;
+}
+#breadCrumb li { 
+	background: #fff;
+	border-top: 1px solid #ebebeb;
+	border-bottom: 2px solid #ebebeb;
+	border-left: 1px solid #ebebeb;
+	color: #747272;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 24px;
+	margin-left: -3px;
+	padding: 16px 29px 14px 30px;
+	list-style: none;
+	text-transform: uppercase;
+	position: relative;
+}
+#breadCrumb li:first-of-type{
+	border-top-left-radius: 4px;
+	border-left: 0;
+	margin-left: 0;
+}
+#breadCrumb li:last-of-type{
+	border-top-right-radius: 4px;
+	padding-right:28px;	
+}
+#breadCrumb li.active,#breadCrumb li.completed,#breadCrumb li.completed .step  {
+	background: #549ba5;
+	background: -moz-linear-gradient(top,  #549ba5 0%, #57a1ad 9%, #4a8b9a 49%, #315e69 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#549ba5), color-stop(9%,#57a1ad), color-stop(49%,#4a8b9a), color-stop(100%,#315e69));
+	background: -webkit-linear-gradient(top,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	background: -o-linear-gradient(top,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	background: -ms-linear-gradient(top,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	background: linear-gradient(to bottom,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#549ba5', endColorstr='#315e69',GradientType=0 );
+	color: #fff;
+	text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+}
+#breadCrumb .step { border: 1px solid #747272; border-radius: 25px; font-size: 13px; padding:2px 6px; margin:0 5px; color:#747272;}
+#breadCrumb li.active .step,#breadCrumb li.completed,#breadCrumb li.completed .step {border-color: #fff; color:#fff; text-shadow: 0px 1px 1px rgba(0,0,0,0.2);}
+
+#activityDetailsContainer form{ padding-left: 20px; }
+
+#checkoutForm > div:last-of-type{ float: right !important; margin: -50px 10px 20px; }
+#activityDetailsContainer #formSubmit{ margin-bottom: 20px; }
+
+#activityDetailsContainer input[type=text], #activityDetailsContainer select, #activityDetailsContainer textarea{
+	padding: 5px 8px;
+	font-size: 15px;
+	margin-right: 10px;
+	border-radius: 4px;
+	border: 1px solid #cdcdcd;
+	box-shadow: inset 0 1px 3px #ccc;
+}
+
+.bookingInputLabel {
+width: 125px;
+float: left;
+font-size: 15px;
+margin: 5px 0;
+}
+.bookingInputField select{ margin-top: 10px; }
+
+.activityTableTitle{
+	color: #ea5d0d;
+	font-size: 16px;
+	margin-bottom: 3px;
+	padding-top: 30px;
+	margin-top: 30px;
+	border-top: 1px solid #eee;
+	padding: 0;
+}
+
+.activityTableTitle.bigger.strong{
+	font-size: 25px;
+	padding: 20px;
+	padding-bottom: 35px;
+	text-transform: uppercase;
+	border: 0;
+        line-height: 30px;
+}
+#activityTableTitleSingleDate .activityTableTitle.bigger.strong{
+	font-size: 16px;
+	padding: 0;
+	text-transform: none;
+}
+
+#timeWarning{ padding: 20px;}
+
+#productForm
+{
+   float:left;
+   margin:20px 0 0 0;
+   position:relative;
+}
+#productName
+{
+   margin:5px 0 5px 15px;
+}
+#productName #proname
+{
+   color:#333333;
+   font-family:Georgia,'Times New Roman',Times,serif;
+   font-size:20px;
+   line-height:18px;
+}
+#productPrice
+{
+   line-height:15px;
+   margin:5px 0 0 15px;
+   width:430px;
+}
+#productPrice #price
+{
+color:#333333;
+float:left;
+/*
+font-family:Georgia,'Times New Roman',Times,serif;
+*/
+font-family: arial, verdana, tahoma, sans-serif;
+font-size:16px;
+margin-right:40px;
+}
+#productDescription
+{
+   color:#333333;
+   float:left;
+}
+#productDescription #prodescription
+{
+   color:#333333;
+   float:left;
+}
+#productBody
+{
+clear: both;
+width: 600px;
+
+}
+#productDetailsLeft
+{
+   float: left;
+   margin-right: 15px;
+   overflow: hidden;
+   width: 250px;
+
+}
+#productDetailsRight
+{
+   float: left;
+   overflow: hidden;
+   width: 300px;
+}
+.product
+{
+   display: inline;
+   float: left;
+   height: 182PX;
+   margin: 15px 0 0 10px;
+   overflow: hidden;
+   width: 170px;
+
+}
+.productText
+{
+   clear: both;
+   line-height: 12px;
+   margin-left: 10px;
+   padding-top: 3px;
+
+}
+
+
+
+
+#singleActivityResult
+{
+   background:#fcfcfc;
+}
+.singleActivityResultRight
+{
+   width:300px;
+}
+.singleActivityResultBottom
+{
+   width:100%;
+}
+
+
+
+/* Colours
+----------------------------------------*/
+
+table tr + tr.topControls td{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+table tr.topControls + tr td{
+	padding-top: 15px;
+}
+
+.topControls{
+	color: #ea5d0d;
+	font-size: 15px;
+	font-weight: bold;
+}
+.topControls td + td + td{
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.required {color:#D13D3D;}
+.error_mesage {
+	background:#FFEBEB;
+	border:1px solid #D13D3D;
+	color:#D13D3D;
+}
+.error {color:#990000;}
+.top_message {color:#E17500;}
+
+
+
+.activityTableTitleSingleDate td{ vertical-align: top; }
+.activityTinyLabel {color:#666;}
+.activityNotesRestrictions {color:#4b8611; font-size: 15px; font-weight: bold; }
+.spaceAvailable {color:#4B75B3;}
+.spaceNotAvailable {color:#D13D3D;}
+.spaceSoldOut
+{
+   color:#D13D3D;
+   font-size: 20px;
+	font-weight: bold;
+}
+
+.loggedIn { background-color:#D9E0E7;}
+.reviewTitleRow {color:#4b8611;}
+.reviewLeftTD { background-color:#E5E5E5;}
+
+.oddCartRow { background-color:#F1F1F1;}
+.evenCartRow { background-color:#FFF;}
+
+
+
+/*#footer {background:#4B75B3; border-top:1px solid #FFF;}*/
+
+.bookingErrorMessage {color:#4B75B3;}
+
+.generalErrorMessage
+{
+   color:#D66006;
+   font-size: 22px;
+
+}
+.contactUs{color:#4B75B3;}
+
+#tabs a {color: #727272; text-transform: uppercase; font-size: 10px; border: 1px solid #eaeaea;}
+#tabs a span{ padding: 15px !important; }
+#tabs a + #tabs a { border-left: 0; }
+#tabs a:hover{color: #4b8611;}
+/*
+#tabHeaderActive a { color: #000; border-bottom:0;}
+#tabHeaderActive span{ border-top: 2px solid #f45e3d; }*/
+
+#tabHeaderActive a
+{
+   border-top: 2px solid #f45e3d;
+   color: #000;
+   border-bottom: 0;
+}
+
+.tabContent { background-color:#FFF; padding-top: 10px !important; }
+
+#tabContent1 table td{ vertical-align: top !important;}
+
+#tabContent2{ height: auto !important;}
+
+.seatsRemaining
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+.seatsLeftCopy
+{
+	font-size: 11px;
+	text-align: left;
+}
+.seatsLeftCopyBold
+{
+	font-size: 11px;
+	text-align: left;
+	font-weight: bold;
+}
+.paginationNumber
+{
+	font-size: 14px;
+	font-weight: bold;
+}
+.paginationLabel
+{
+	font-size: 12px;
+	text-align: left;
+}
+
+
+
+/* Font-sizes
+------------------------------------------*/
+/*
+body {font-size:12px; line-height:18px;}
+h2 {font-size:16px;}
+h3 {font-size:16px;}
+h4 {font-size:16px;}
+th {font-size:14px;}
+td {font-size:12px;}
+
+.vsmall {font-size:10px;}
+.small {font-size:11px;}
+.normal {font-size:12px;}
+.medium {font-size:13px;}
+.big {font-size:14px;}
+.bigger {font-size:16px;}
+.biggest {font-size:22px;}
+*/
+
+/*Font Weight and styles
+-------------------------------------------------*/
+
+.strong { font-weight:bold;}
+
+.clear {
+	clear:both;
+}
+.clearfix:after, .main:after, #content-wrapper:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+/* Layout and other styles which shouldn't require changes
+------------------------------------------*/
+body{
+	/*background: url(http://paris.citysegwaytours.com/images/bkg.jpg) #018ccf repeat-x;*/
+	background: url(http://paris.citysegwaytours.com/images/bkg.jpg) #5dacbd repeat-x;
+	color: #606060;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+}
+.main{
+	/*background: url(http://paris.citysegwaytours.com/images/bkg-full.jpg) top center no-repeat;*/
+	background: url(http://paris.citysegwaytours.com/images/bkg-full.jpg) top center no-repeat;
+	position: relative;
+	padding-bottom: 260px;
+}
+#wrap { 	
+	margin: 0 auto;
+	width: 940px;
+}
+.wrap{
+	margin: 0 auto;
+	width: 940px;
+}
+#content-wrapper{
+	background: #f6f6f6;
+	border-radius: 6px;
+	box-shadow: 1px 5px 10px rgba(0,39,74,0.7);
+	margin-bottom: 30px;	
+}
+/*#head {float:left; width:900px; margin:0; padding:0;}*/
+#menu{
+	font-family: 'Cinzel', serif;
+}
+#header{ height:200px; }
+#header .sharing{ 
+	background:url(http://paris.citysegwaytours.com/images/follow-us2.png) no-repeat;
+	float: left;
+	height: 33px;
+	margin: 12px 16px;
+	width: 255px;
+}
+#header .sharing a{
+	float: right;
+	display: block;
+	height: 33px;
+	width: 33px;
+	margin-left: 2px;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+#header .sharing a:hover{ background-color: rgba(250,250,250,0.3); }
+#header .cart{
+	/*background: url(../images/cart-bkg.jpg) no-repeat;*/
+	float: right;
+	height: 53px;
+	margin-top: 3px;
+	width: 292px;
+}
+#header .cart .btn-checkout{
+	background: url(http://paris.citysegwaytours.com/images/checkout.png) no-repeat;
+	display: block;
+	float: right;
+	height: 28px;
+	margin: 12px 13px;
+	overflow: hidden;
+	text-indent:-9999px;
+	width: 87px;
+}
+#header .cart .btn-checkout:hover{ opacity: 0.9; }
+
+.logo {
+	display: block;
+    width: 478px;
+	height: 95px;
+	background-image: url(http://paris.citysegwaytours.com/images/paris-city-segway-logo.png);
+	float: left;
+	margin: 8px 0 0 3px;
+}
+#nav {
+	width: 940px;
+	margin: 0 auto 22px;
+	padding: 0;
+	list-style: none;
+	height: 72px;
+}
+#nav li {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+#nav li a {
+	display: block;
+	float: left;
+	height: 72px;
+	width: 103px;
+	/*background-image: url(http://paris.citysegwaytours.com/images/menu.png);*/
+	background-image: url(http://paris.citysegwaytours.com/images/menu.png);
+	text-indent: -9999px;
+}
+
+#nav a.home {width: 101px; 	background-position: -7px -72px;}
+#nav a.home.active,
+#nav a.home:hover {background-position: -7px 0;}
+
+#nav a.tour {width: 109px; background-position: -108px -72px;}
+#nav a.tour.active,
+#nav a.tour:hover {background-position: -108px 0;}
+
+#nav a.private-tours {width: 165px; background-position: -217px -72px;}
+#nav a.private-tours.active,
+#nav a.private-tours:hover {background-position: -217px 0;}
+
+#nav a.specials {width: 118px; background-position: -382px -72px;}
+#nav a.specials.active,
+#nav a.specials:hover {background-position: -382px 0px;}
+
+#nav a.why-us {width: 122px; background-position: -500px -72px;}
+#nav a.why-us.active,
+#nav a.why-us:hover {background-position: -500px 0px;}
+
+#nav a.faqs {width: 97px; background-position: -622px -72px;}
+#nav a.faqs.active,
+#nav a.faqs:hover {background-position: -622px 0;}
+
+#nav a.blog {width: 99px; background-position: -719px -72px;}
+#nav a.blog.active,
+#nav a.blog:hover {background-position: -719px 0;}
+
+#nav a.contact {width: 129px; background-position: -818px -72px;}
+#nav a.contact.active,
+#nav a.contact:hover {background-position: -818px 0;}
+
+#stage {
+	float: right;
+	width: 664px;
+	margin: 21px 22px 21px 0;
+	padding: 0;
+	background: #fff;
+	box-shadow: 0px 6px 12px rgba(0,0,0,0.1);
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+#stage_big {
+	float:left;
+	width:779px;
+	margin:1px 0 0 1px; padding:0;
+}
+
+
+
+th {
+	text-align:left;
+	padding:4px 5px;
+}
+
+
+th.special {text-align:right;}
+
+
+/*
+.pointToPointRouteTableHeader {
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+*/
+
+.pointToPointRouteTableHeader
+{
+	font-weight:bold;
+	font-size:14px;
+
+	border-bottom-style:solid;
+	border-bottom-color:#4B75B3;
+	border-bottom-width: 1px;
+	border-bottom: 1px solid #000000;
+
+}
+
+
+h4.processingBookingMessageFont {
+	padding: 2px 10px;
+	border-bottom:1px solid #F8F9F9;
+}
+
+/* CSS entries for the interval time zajax callback */
+
+.zajaxActivityIntervalTable {
+   border:1px solid #EBEBEB;
+}
+.zajaxActivityIntervalHeader {
+	border-top: 1px solid #4B75B3;
+	border-bottom: 1px solid #4B75B3;
+}
+.paymentTransactionsWebBooking {
+	border-bottom: 1px solid #000;
+}
+
+tr.reportHeading td {
+	border-top:1px solid #000000;
+	border-bottom:1px solid #000000;
+}
+
+/****************************
+client reviews
+****************************/
+
+.reviewMainTable {
+   border:1px solid #EBEBEB;
+  width:100%;
+
+}
+.reviewLeftTD {
+   width:200px;
+}
+/* Create Reservation
+--------------------------------*/
+.createReservation {
+	width:400px;
+	border:1px solid #EBEBEB;
+}
+
+
+.cartContentsTopRight {
+   position: absolute;
+	top: 20px;
+	left: 50%;
+	margin-left: 110px;
+}
+.cartContentsTopRight img {display:none;}
+
+.activityImageTD {
+	padding-right: 20px;
+	width:100px;
+	vertical-align: top;
+}
+
+
+.activityImageTD +td, .activityImageTD +td + td{ vertical-align: top; }
+.activityImageTD +td + td{ text-align: right; }
+
+/* top navigation */
+.navigation ul{
+	margin-left: -30px;
+}
+#tabHeader2, #tabHeader5{ display: none !important; }
+.navigation a {color:#666;}
+.navigation a img{ display:none; }
+.navigation a:hover, .navigation a:active, .navigation .selected { color:#4B75B3; }
+
+/* sidebar */
+
+#sidebar h2 { 
+	color: #0077c2;
+	font-size: 18px;
+}
+#sidebar h3 {color:#0077c2;}
+
+/*stage area*/
+
+.sbutton {
+   background: #549ba5;
+	background: -moz-linear-gradient(top,  #549ba5 0%, #57a1ad 9%, #4a8b9a 49%, #315e69 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#549ba5), color-stop(9%,#57a1ad), color-stop(49%,#4a8b9a), color-stop(100%,#315e69));
+	background: -webkit-linear-gradient(top,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	background: -o-linear-gradient(top,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	background: -ms-linear-gradient(top,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	background: linear-gradient(to bottom,  #549ba5 0%,#57a1ad 9%,#4a8b9a 49%,#315e69 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#549ba5', endColorstr='#315e69',GradientType=0 );
+	border: 0;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 12px;
+	padding: 7px 14px;
+	text-shadow: 0px 1px 1px rgba(0,0,0,0.2);
+	text-transform: uppercase;
+}
+
+.tabbed_table {border:1px solid #4B75B3;}
+.tab_active {background:#4B75B3; color:#FFF;}
+.tab {background:#D9E0E7;}
+
+.cart_content {border:1px solid #D9E0E7;}
+
+
+
+/* Top navigation area */
+.navigation {width:900px;float:left;}
+.navigation ul {list-style: none;}
+
+.navigation li {
+	display: block;
+	float: left;
+	width: auto;
+}
+.navigation a {
+	display: block;
+	width: auto;
+	margin: 0;
+	padding: 4px 10px;
+}
+/* Sidebar area */
+#sidebar {
+	float:left;
+	width:220px;
+	margin:5px 0 0 20px; 
+	padding:0;
+	text-align: left;
+}
+#feature tr{ text-align: left; }
+#mostPopular tr a img{ display:none; }
+
+#login td.strong{ display:none; width: 0; }
+#login td.strong + td{ width: 100%; }
+#login a{ color: #417097;}
+#login table tbody tr:last-of-type td{
+	display: inline-block;
+	margin-top:-30px;
+	margin-left: 80px;
+	text-align: left;
+	width: 150px;
+}
+/*#search, #login, #feature, #review, #mostPopular, #products, #packageCategories  {margin-bottom:10px;}
+#search h2, #login h2, #feature h2, #review h2, #mostPopular h2, #products h2, #packageCategories h2 {padding:8px 4px;}
+#search table, #login table {padding:10px 6px;}
+#sidebar p, #sidebar h3 {padding:6px;}
+#sidebar h3 {padding-bottom:0px;}
+.padLeft {float:right; padding-left:3px;}
+.cart_content {margin-bottom:10px;}
+.tabbed_table {margin-bottom:10px; margin-top:-2px;}
+.tab_navigation {margin-left:10px;}
+*/
+
+/* Footer area */
+/*#footer {
+	clear:both;
+	width:900px;
+	margin:0; padding:0;
+}*/
+#footer{ 
+display: none;
+position: absolute;
+bottom: 11px;
+left: 50%;
+margin-left: -460px;
+ }
+ #footer a{
+	background: rgba(0,130,177,0.7);
+	display: inline-block;
+	border: 1px solid rgba(0,130,177,0.7);
+	border-radius: 4px;
+	padding:2px 2px 3px;
+ }
+#footer-ep{
+	box-shadow: inset 0px 5px 3px rgba(0,39,74,0.7);
+	background: rgba(0,39,74,0.65);
+	color: #ceebef;
+	font-weight: bold;
+	text-shadow: 1px 3px 2px rgba(0,39,74,1);
+	line-height: 1.2;
+	margin-top: 63px;
+	min-height: 200px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+#footer-ep .shadow{
+	box-shadow: 0px 5px 3px rgba(0,39,74,0.7);
+	min-height: 145px;
+}
+#footer-ep .pdf{
+	background: url(http://paris.citysegwaytours.com/images/pdf-brochure-bkg.png) no-repeat;
+	float: left;
+	margin-left: -7px;
+	overflow-y: hidden;
+	width: 300px;
+}
+#footer-ep .pdf a:hover img{ opacity: 0.9; }
+#footer-ep .pdf img{
+	margin-left: 7px;
+}
+#footer-ep .pdf p{ margin-bottom: 0; }
+
+#footer-ep .copyright p{
+	text-align: right;
+	padding: 20px 0 18px;
+	margin: 0;
+}
+#footer-ep .menu, #footer-ep .addy-phone{
+	float: right;
+	margin-top: 25px;
+	text-align: right;
+	width: 646px;
+}
+#footer-ep .menu a{
+	border-left: 1px solid #00637e;
+	border-right: 1px solid #001517;
+	color: #fff;
+	font-family: 'Cinzel', serif;
+	font-size: 13px;
+	font-weight: normal;
+	padding: 0 10px;
+	text-decoration: none;
+}
+#footer-ep .menu a:hover{ color: #00a3d6; } 
+
+#footer-ep .menu a:first-of-type{ border-left: 0; }
+#footer-ep .menu a:last-of-type{ border-right: 0;  padding-right: 0; }
+#footer-ep .sharing{
+	background-image: url(http://paris.citysegwaytours.com/images/share.png);
+	float: right;
+	height: 38px;
+	margin-top: 4px;
+	width: 368px;
+}
+#footer-ep .sharing a{
+	float: right;
+	display: block;
+	border-radius: 20px;
+	height: 36px;
+	width: 36px;
+	margin: 1px 1px 0 6px;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+##footer-ep .sharing a:hover{ background-color: rgba(0,163,214,0.1); }
+#footer-ep .street_address{
+	border-right: 1px solid #001517;
+	padding-left: 35px;
+	padding-right: 13px;
+	position: relative;
+}
+#footer-ep .street_address:before, #footer-ep .phone_number:before{
+	background:url(http://paris.citysegwaytours.com/images/footer-icons.png) no-repeat;
+	background-position: 0 -25px;
+	content: '';
+	display: inline-block;
+	height: 30px;
+	position: absolute;
+	left: 7px;
+	top: -4px;
+	width: 30px;
+}
+#footer-ep .phone_number:before{
+	background-position: 0 0;
+	height: 28px;
+	left: 13px;
+	top: -1px;
+	width: 30px;
+}
+#footer-ep .street_address + .street_address:before{
+	background:none;
+}
+#footer-ep .street_address + .street_address{
+	border-left: 1px solid #00637e;
+	border-right: 0;
+	padding-left: 13px;
+}
+#footer-ep .street_address + .phone_number{
+	margin-left: 1px;
+}
+#footer-ep .phone_number{
+	padding-left: 38px;
+	position: relative;
+}
+
+.siteSwitcher{
+	padding:0;
+	text-align: left;
+	margin: -34px 0 0 -468px;
+	left: 50%;
+	position: relative;
+	bottom: 0;
+	z-index: 10;
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	text-shadow: 1px 3px 2px rgba(0,39,74,1);
+	line-height: 1.2;
+	width: 100px;
+}
+.siteSwitcher a{
+	color:#ceebef;
+}
+.siteSwitcher a:hover{
+	color: #00a3d6;
+}
+
+/* Date Picker */
+
+.datepicker {
+   background: url('../../../themes/default/img/icons/calendar_small.gif') no-repeat 96.5% 43% white;
+}
+
+.ui-datepicker {
+    padding: 0.1em 0.1em 0;
+    width: 11em;
+}
+
+.ui-widget {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 14px;
+}
+
+.ui-datepicker th {
+    border: 0 none;
+    font-weight: normal;
+    padding: 0.2em 0.1em;
+    text-align: center;
+    background-color:#FFFFFF;
+}
+
+.ui-datepicker th span {
+    font-size: 11px;
+}
+
+.ui-datepicker td span, .ui-datepicker td a {
+    padding: 0.1em;
+}
+
+.ui-datepicker td {
+    padding: 0.9px;
+}
+
+.ui-datepicker-header {
+    height: 23px;
+}
+
+/* End Date Picker */
+
+.companyTerms {
+	padding: 10px;
+	clear: both;
+}
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+  .siteSwitcher { position: inherit!important; padding-bottom: 40px; }
+  .activityDetailsInput { margin-bottom: 10px; }
+  #poweredByZaui { display: none; }
+}
+
+.street_address a,
+.phone_number,
+.copyright a { color: #e0fddf; }
