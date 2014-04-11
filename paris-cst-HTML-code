@@ -1,11 +1,11 @@
 <div id="header">
 		<div class="wrap">
 			<div class="sharing">
-						<a href="#" target="_blank" class="instagram">Instagram</a>
-						<a href="#" target="_blank" class="pinterest">Pinterest</a>
+						<a href="http://instagram.com/segwayparis" target="_blank" class="instagram">Instagram</a>
+						<a href="http://paris.citysegwaytours.com/#" target="_blank" class="pinterest">Pinterest</a>
 						<a href="http://paris.citysegwaytours.com/blog/feed" target="_blank" class="rss">RSS</a>
-						<a href="https://www.facebook.com/CitySegwayTours" target="_blank" class="facebook">Facebook</a>
-						<a href="https://twitter.com/CitySegwayTours" target="_blank" class="twitter">Twitter</a>
+						<a href="https://www.facebook.com/CitySegwayToursParis" target="_blank" class="facebook">Facebook</a>
+						<a href="https://twitter.com/SegwayParis" target="_blank" class="twitter">Twitter</a>
 			</div>
 			<div class="cart">
 				<a href="https://fattirebiketours.zaui.net/paris/data/portals/segway-tours/index.php?action=Contents" class="btn-checkout">Checkout</a>
