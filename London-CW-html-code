@@ -1,0 +1,60 @@
+<div id="header">
+		<div class="wrap">
+			<div class="sharing">
+						<a href="http://instagram.com/fattirelondon" target="_blank" class="instagram">Instagram</a>
+						<a href="http://www.pinterest.com/fattirelondon/" target="_blank" class="pinterest">Pinterest</a>
+						<a href="http://london.classicwalks.com/blog/" target="_blank" class="rss">RSS</a>
+						<a href="https://www.facebook.com/FatTireBikeToursLondon" target="_blank" class="facebook">Facebook</a>
+						<a href="https://twitter.com/FatTireLondon" target="_blank" class="twitter">Twitter</a>
+			</div> 
+			<div class="cart">
+				<a href="https://fattirebiketours.zaui.net/london/data/portals/sandbox-walking/index.php?action=Contents" class="btn-checkout">Checkout</a>
+			</div>			
+			<div class="clear"><a href="http://london.classicwalks.com/" class="logo"></a></div>
+		</div>
+	</div>
+	<div id="menu" class="clear">
+		<ul id="nav" class="group">
+			<li><a href="http://london.classicwalks.com/" class="home">Home</a></li>
+			<li><a href="http://london.classicwalks.com/tours" class="tour">Tours</a></li>
+			<li><a href="http://london.classicwalks.com/private-tours" class="private-tours">Private Tours</a></li>
+			<li><a href="http://london.classicwalks.com/specials" class="specials">Specials</a></li>
+			<li><a href="http://london.classicwalks.com/why-us" class="why-us">Why Us?</a></li>
+			<li><a href="http://london.classicwalks.com/faqs" class="faqs">FAQ's</a></li>
+			<!-- <li><a href="http://london.classicwalks.com/blog" class="blog">Blog</a></li> -->
+			<li><a href="http://london.classicwalks.com/contact" class="contact">Contact</a></li>
+		</ul>
+	</div>
+   </div><!-- #head -->
+</div><!-- #wrap -->
+	<div id="footer-ep">
+		<div class="shadow">
+			<div class="wrap">
+				<div class="pdf"><p><a href="http://london.classicwalks.com/filebin/files/Brochure_FTBT_London.pdf" target="_blank"><img src="http://paris.easypasstours.com/images/pdf-brochure.png" alt=""></a></p></div>
+				<div class="menu">
+					<a href="http://london.classicwalks.com/" target="_self">Home</a><a href="http://london.classicwalks.com/tours" target="_self">Tours</a><a href="http://london.classicwalks.com/private-tours" target="_self">Private Tours</a><a href="http://london.classicwalks.com/specials" target="_self">Specials</a><a href="http://london.classicwalks.com/why-us" target="_self">Why Us?</a><a href="http://london.classicwalks.com/faqs" target="_self">FAQ's</a><!-- <a href="http://www.myguidetoparis.com" target="_self">Blog</a> --><a href="http://london.classicwalks.com/contact" target="_self">Contact</a>				</div>
+				<div class="addy-phone">
+					<p>
+						<span class="phone_number">07882.338.779 (UK)</span>
+						<span class="phone_number">+44.7882.338.779 (outside UK)</span>
+					</p>
+				</div>
+				<div class="sharing">
+					<a href="mailto:?subject=Visit London Walking Tours | Guided Sightseeing Tours | Classic Walks - London&amp;body=I was just visiting the London Walking Tours | Guided Sightseeing Tours | Classic Walks - London website, and I thought you should see it. Check it out at http://london.classicwalks.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://london.classicwalks.com/&amp;title=London+Walking+Tours+%7C+Guided+Sightseeing+Tours+%7C+Classic+Walks+-+London" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+London+Walking+Tours+%7C+Guided+Sightseeing+Tours+%7C+Classic+Walks+-+London+-+http://london.classicwalks.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://london.classicwalks.com/%2F&amp;t=London+Walking+Tours+%7C+Guided+Sightseeing+TOurs+%7C+Classic+Walks+-+London" target="_blank">Send To Facebook</a>	
+				</div>
+			</div>
+	
+		</div>
+		<div class="wrap copyright">
+		<p>Classic Walk Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/><a href="http://london.classicwalks.com/pages/terms-conditions/overview">Terms &amp; Conditions</a> | <a href="http://london.classicwalks.com/pages/terms-conditions/overview">We use cookies on this website. By using cookies you understand &amp; agree to these terms.</a></p>		</div>	
+	</div>
+<script>
+jQuery(document).ready(function(){ 
+jQuery('input[name="username"]').attr('placeholder','Username'); 
+jQuery('input[name="password"]').attr('placeholder','Password'); 
+});
+</script>
+<div class="wrap"><div>
