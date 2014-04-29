@@ -1,0 +1,70 @@
+<div id="header">
+		<div class="wrap">
+			<div class="sharing">
+						<a href="http://instagram.com/fattirelondon" target="_blank" class="instagram">Instagram</a>
+						<a href="#" target="_blank" class="pinterest">Pinterest</a>
+						<a href="#" target="_blank" class="rss">RSS</a>
+						<a href="https://www.facebook.com/FatTireBikeToursLondon" target="_blank" class="facebook">Facebook</a>
+						<a href="https://twitter.com/FatTireLondon" target="_blank" class="twitter">Twitter</a>
+			</div>
+			<div class="cart">
+				<a href="https://fattirebiketours.zaui.net/london/data/portals/bike-tours/index.php?action=Contents" class="btn-checkout">Checkout</a>
+			</div>			
+			<div class="clear"><a href="http://london.fattirebiketours.com/" class="logo"></a></div>
+		</div>
+	</div>
+	<div id="menu" class="clear">
+		<ul id="nav" class="group">
+			<li><a href="http://london.fattirebiketours.com/" class="home">Home</a></li>
+			<li><a href="http://london.fattirebiketours.com/tours" class="tour">Tours</a></li>
+			<li><a href="http://london.fattirebiketours.com/private-tours" class="private-tours">Private Tours</a></li>
+			<li><a href="http://london.fattirebiketours.com/specials" class="specials">Specials</a></li>
+			<li><a href="http://london.fattirebiketours.com/why-us" class="why-us">Why Us?</a></li>
+			<li><a href="http://london.fattirebiketours.com/faqs" class="faqs">FAQ's</a></li>
+			<!-- <li><a href="http://london.fattirebiketours.com/blog" class="blog">Blog</a></li> -->
+			<li><a href="http://london.fattirebiketours.com/contact" class="contact">Contact</a></li>
+		</ul>
+	</div>
+   </div><!-- #head -->
+</div><!-- #wrap -->
+	<div id="footer-ep">
+		<div class="shadow">
+			<div class="wrap">
+				<div class="pdf"><p><a href="http://london.fattirebiketours.com/filebin/files/FTBT_London_Brochure-2014.pdf" target="_blank"><img src="http://london.fattirebiketours.com/images/pdf-brochure.png" alt=""></a></p></div>
+				<div class="menu">
+					<a href="http://london.fattirebiketours.com/" target="_self">Home</a><a href="http://london.fattirebiketours.com/tours" target="_self">Tours</a><a href="http://london.fattirebiketours.com/private-tours" target="_self">Private Tours</a><a href="http://london.fattirebiketours.com/specials" target="_self">Specials</a><a href="http://london.fattirebiketours.com/why-us" target="_self">Why Us?</a><a href="http://london.fattirebiketours.com/faqs" target="_self">FAQ's</a><!-- <a href="http://london.fattirebiketours.com/blog" target="_self">Blog</a> --><a href="http://london.fattirebiketours.com/contact" target="_self">Contact</a>				</div>
+				<div class="addy-phone">
+					<p>
+						<span class="phone_number">07882.338.779 (UK)</span>
+						<span class="phone_number">+44.7882.338.779 (outside UK)</span>
+					</p>
+				</div>
+				
+				<div class="sharing">
+					
+					<a href="mailto:?subject=Visit London Fat Tire Bike Tours | Sightseeing Tours | Fat Tire Bike Tours - London	&amp;body=I was just visiting the London Fat Tire Bike Tour | Sightseeing Tours | City Segway Tours - London	 website, and I thought you should see it. Check it out at http://london.fattirebiketours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://london.fattirebiketours.com/&amp;title=London+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+London%09" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+London+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+London%09+-+http://london.fattirebiketours.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://london.fattirebiketours.com/%2F&amp;t=London+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+London%09" target="_blank">Send To Facebook</a>	
+				</div>
+
+				<!-- <div class="sharing">
+					
+					<a href="mailto:?subject=Visit Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris&amp;body=I was just visiting the Skip The Line Tours | Eiffel Tower | Easy Pass Tours - Paris website, and I thought you should see it. Check it out at http://paris.easypasstours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://paris.easypasstours.com/&amp;title=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris+-+http://paris.easypasstours.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://paris.easypasstours.com/%2F&amp;t=Skip+The+Line+Tours+%7C+Eiffel+Tower+%7C+Easy+Pass+Tours+-+Paris" target="_blank">Send To Facebook</a>	
+				</div> -->
+			</div>
+	
+		</div>
+		<div class="wrap copyright">
+		<p>Fat Tire Bike Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/><a href="http://london.fattirebiketours.com/pages/terms-conditions/overview">Terms &amp; Conditions</a> | <a href="http://london.fattirebiketours.com/pages/terms-conditions/overview">We use cookies on this website. By using cookies you understand &amp; agree to these terms.</a></p>		</div>	
+	</div>
+<script>
+jQuery(document).ready(function(){ 
+jQuery('input[name="username"]').attr('placeholder','Username'); 
+jQuery('input[name="password"]').attr('placeholder','Password'); 
+});
+</script>
+<div class="wrap"><div>
