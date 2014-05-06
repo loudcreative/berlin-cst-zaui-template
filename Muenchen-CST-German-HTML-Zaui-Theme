@@ -1,0 +1,57 @@
+<div id="header">
+		<div class="wrap">
+			<div class="sharing">
+						<a class="instagram" href="http://instagram.com/cstmunich" target="_blank">Instagram</a> <a class="pinterest" href="https://www.www.pinterest.com/cstmunich/" target="_blank">Pinterest</a> <a class="facebook" href="http://www.facebook.com/citysegwaymunich" target="_blank">Facebook</a> <a class="twitter" href="https://twitter.com/cstmunich" target="_blank">Twitter</a></div>
+			<div class="cart">
+				<div class="btn-flag-checkout">
+				<a href="https://citysegwaytours.zaui.net/munich/data/portals/segway-touren/"class ="checkout">Checkout</a>
+				<a href="http://muenchen.citysegwaytours.de/" target="_blank" class="german">German Site</a>
+				<a href="http://munich.citysegwaytours.com/" class="english">English Site</a>
+			</div>	</div>			
+			<div class="clear"><a href="http://munich.citysegwaytours.com" class="logo"></a></div>
+		</div>
+	</div>
+	<div id="menu" class="clear">
+		<ul id="nav" class="group">
+			<li><a href="http://muenchen.citysegwaytours.de/" class="home">Home</a></li>
+			<li><a href="http://muenchen.citysegwaytours.de/tours" class="tour">Touren</a></li>
+			<li><a href="http://muenchen.citysegwaytours.de/private-tours" class="private-tours">Private Touren</a></li>
+			<li><a href="http://muenchen.citysegwaytours.de/specials" class="specials">Besondere Touren</a></li>
+			<li><a href="http://berlin.citysegwaytours.de/why-us" class="why-us">Uber Uns</a><a href="http://muenchen.citysegwaytours.de/why-us" class="why-us"></a></li>
+			<li><a href="http://berlin.citysegwaytours.de/faqs" class="faqs">Aufige Fragen</a><a href="http://muenchen.citysegwaytours.de/faqs" class="faqs"></a></li>
+			<li><a href="http://muenchen.citysegwaytours.de/contact" class="contact">Kontakt</a></li>
+		</ul>
+	</div>
+   </div><!-- #head -->
+</div><!-- #wrap -->
+	<div id="footer-ep">
+		<div class="shadow">
+			<div class="wrap">
+				<div class="pdf"><p><a href="http://munich.citysegwaytours.com/filebin/files/fat-tire-bike-tours-city-segway-tours-brochure.pdf" target="_blank"><img src="http://muenchen.citysegwaytours.de/images/pdf-brochure.png" alt=""></a></p></div>
+				<div class="menu">
+					<a href="http://muenchen.citysegwaytours.de" target="_self">Home</a><a href="http://muenchen.citysegwaytours.de/tours" target="_self">Tours</a><a href="http://muenchen.citysegwaytours.de/private-tours" target="_self">Private Tours</a><a href="http://muenchen.citysegwaytours.de/specials" target="_self">Specials</a><a href="http://muenchen.citysegwaytours.de/why-us" target="_self">Why Us?</a><a href="http://muenchen.citysegwaytours.de/faqs" target="_self">FAQ's</a><a href="http://muenchen.citysegwaytours.de/contact" target="_self">Contact</a>				</div>
+				<div class="addy-phone"><p><span class="street_address"><a href="https://goo.gl/maps/Fr41E" target="_blank">Karlsplatz 480335 | München, Germany</a></span>&nbsp;<span class="phone_number">+49 89 23 88 87 98</span></p></div>
+				
+				<div class="sharing">
+					
+					<a href="mailto:?subject=Visit München Segway Tour | Sightseeing Tours | City Segway Tours - München	&amp;body=I was just visiting the München Segway Tour | Sightseeing Tours | City Segway Tours - München	 website, and I thought you should see it. Check it out at http://muenchen.citysegwaytours.de">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://muenchen.citysegwaytours.de&amp;title=Munich+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Munich%09" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+Munich+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Munich%09+-+http://muenchen.citysegwaytours.de" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://muenchen.citysegwaytours.de%2F&amp;t=Munich+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+Munich%09" target="_blank">Send To Facebook</a>	
+				</div>
+                
+			</div>
+	
+		</div>
+		<div class="wrap copyright">
+		<p>City Segway Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/>
+         <a href="http://muenchen.citysegwaytours.de/pages/information/impressum">Impressum</a>
+        <a href="http://muenchen.citysegwaytours.de/pages/terms-conditions/overview">Allgemeine Geschäftsbedingungen </a> | <a href="http://muenchen.citysegwaytours.dem/pages/terms-conditions/overview">We use cookies on this website.<br /> By using cookies you understand &amp; agree to these terms.</a></p>	</div>	
+	</div>
+<script>
+jQuery(document).ready(function(){ 
+jQuery('input[name="username"]').attr('placeholder','Username'); 
+jQuery('input[name="password"]').attr('placeholder','Password'); 
+});
+</script>
+<div class="wrap"><div>
