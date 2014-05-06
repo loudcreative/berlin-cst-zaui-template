@@ -975,9 +975,9 @@ margin-left: -460px;
 	border-right: 1px solid #001517;
 	color: #fff;
 	font-family: 'Cinzel', serif;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight: normal;
-	padding: 0 10px;
+	padding: 0 5px;
 	text-decoration: none;
 }
 #footer-ep .menu a:hover{ color: #00a3d6; } 
@@ -989,7 +989,7 @@ margin-left: -460px;
 	float: right;
 	height: 38px;
 	margin-top: 4px;
-	width: 368px;
+	width: 384px;
 }
 #footer-ep .sharing a{
 	float: right;
