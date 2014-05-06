@@ -17,8 +17,8 @@
 			<li><a href="http://muenchen.citysegwaytours.de/tours" class="tour">Touren</a></li>
 			<li><a href="http://muenchen.citysegwaytours.de/private-tours" class="private-tours">Private Touren</a></li>
 			<li><a href="http://muenchen.citysegwaytours.de/specials" class="specials">Besondere Touren</a></li>
-			<li><a href="http://berlin.citysegwaytours.de/why-us" class="why-us">Uber Uns</a><a href="http://muenchen.citysegwaytours.de/why-us" class="why-us"></a></li>
-			<li><a href="http://berlin.citysegwaytours.de/faqs" class="faqs">Aufige Fragen</a><a href="http://muenchen.citysegwaytours.de/faqs" class="faqs"></a></li>
+			<li><a href="http://muenchen.citysegwaytours.de/why-us" class="why-us">Uber Uns</a></li>
+			<li><a href="http://muenchen.citysegwaytours.de/faqs" class="faqs">Aufige Fragen</a></li>
 			<li><a href="http://muenchen.citysegwaytours.de/contact" class="contact">Kontakt</a></li>
 		</ul>
 	</div>
@@ -29,7 +29,14 @@
 			<div class="wrap">
 				<div class="pdf"><p><a href="http://munich.citysegwaytours.com/filebin/files/fat-tire-bike-tours-city-segway-tours-brochure.pdf" target="_blank"><img src="http://muenchen.citysegwaytours.de/images/pdf-brochure.png" alt=""></a></p></div>
 				<div class="menu">
-					<a href="http://muenchen.citysegwaytours.de" target="_self">Home</a><a href="http://muenchen.citysegwaytours.de/tours" target="_self">Tours</a><a href="http://muenchen.citysegwaytours.de/private-tours" target="_self">Private Tours</a><a href="http://muenchen.citysegwaytours.de/specials" target="_self">Specials</a><a href="http://muenchen.citysegwaytours.de/why-us" target="_self">Why Us?</a><a href="http://muenchen.citysegwaytours.de/faqs" target="_self">FAQ's</a><a href="http://muenchen.citysegwaytours.de/contact" target="_self">Contact</a>				</div>
+					<a href="http://muenchen.citysegwaytours.de" target="_self">Home</a>
+                    <a href="http://muenchen.citysegwaytours.de/tours" target="_self">Touren</a>
+                    <a href="http://muenchen.citysegwaytours.de/private-tours" target="_self">Private Touren</a>
+                    <a href="http://muenchen.citysegwaytours.de/specials" target="_self">Besendore Touren</a>
+                    <a href="http://muenchen.citysegwaytours.de/why-us" target="_self">Über Uns</a>
+                    <a href="http://muenchen.citysegwaytours.de/faqs" target="_self">Häufige Fragen</a>
+                    <a href="http://muenchen.citysegwaytours.de/contact" target="_self">Kontakt</a>
+                </div>
 				<div class="addy-phone"><p><span class="street_address"><a href="https://goo.gl/maps/Fr41E" target="_blank">Karlsplatz 480335 | München, Germany</a></span>&nbsp;<span class="phone_number">+49 89 23 88 87 98</span></p></div>
 				
 				<div class="sharing">
