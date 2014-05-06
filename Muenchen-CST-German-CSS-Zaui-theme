@@ -584,11 +584,11 @@ body{
 }
 #header{ height:200px; }
 #header .sharing{ 
-	background:url(http://muenchen.citysegwaytours.de/images/follow-us2.png) no-repeat;
+	background:url(http://muenchen.citysegwaytours.de/images/folge-uns.png) no-repeat;
 	float: left;
 	height: 33px;
 	margin: 12px 16px;
-	width: 255px;
+	width: 220px;
 }
 #header .sharing a{
 	float: right;
