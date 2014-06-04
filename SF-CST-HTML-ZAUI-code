@@ -1,0 +1,58 @@
+<div id="header">
+		<div class="wrap">
+			<div class="sharing">
+						<!--<a href="#" target="_blank" class="instagram">Instagram</a>
+						<a href="#" target="_blank" class="pinterest">Pinterest</a>
+						<a href="http://sanfrancisco.citysegwaytours.com/blog/" target="_blank" class="rss">RSS</a>-->
+						<a href="https://www.facebook.com/CitySegwayToursSF" target="_blank" class="facebook">Facebook</a>
+						<a href="https://twitter.com/CitySegwaySF" target="_blank" class="twitter">Twitter</a>
+			</div>
+			<div class="cart">
+				<a href="https://citysegwaytours.zaui.net/san-francisco/data/portals/segway-tours/index.php?action=Contents" class="btn-checkout">Checkout</a>
+			</div>			
+			<div class="clear"><a href="http://sanfrancisco.citysegwaytours.com/" class="logo"></a></div>
+		</div>
+	</div>
+	<div id="menu" class="clear">
+		<ul id="nav" class="group">
+			<li><a href="http://sanfrancisco.citysegwaytours.com/" class="home">Home</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/tours" class="tour">Tours</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/private-tours" class="private-tours">Private Tours</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/specials" class="specials">Specials</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/why-us" class="why-us">Why Us?</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/faqs" class="faqs">FAQ's</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/blog" class="blog">Blog</a></li>
+			<li><a href="http://sanfrancisco.citysegwaytours.com/contact" class="contact">Contact</a></li>
+		</ul>
+	</div>
+   </div><!-- #head -->
+</div><!-- #wrap -->
+	<div id="footer-ep">
+		<div class="shadow">
+			<div class="wrap">
+				<div class="pdf"><p><a href="http://sanfrancisco.citysegwaytours.com/filebin/files/fat-tire-bike-tours-city-segway-tours-brochure.pdf" target="_blank"><img src="http://paris.easypasstours.com/images/pdf-brochure.png" alt=""></a></p></div>
+				<div class="menu">
+					<a href="http://sanfrancisco.citysegwaytours.com/" target="_self">Home</a><a href="http://sanfrancisco.citysegwaytours.com/tours" target="_self">Tours</a><a href="http://sanfrancisco.citysegwaytours.com/private-tours" target="_self">Private Tours</a><a href="http://sanfrancisco.citysegwaytours.com/specials" target="_self">Specials</a><a href="http://sanfrancisco.citysegwaytours.com/why-us" target="_self">Why Us?</a><a href="http://sanfrancisco.citysegwaytours.com/faqs" target="_self">FAQ's</a><a href="http://sanfrancisco.citysegwaytours.com/blog" target="_self">Blog</a><a href="http://sanfrancisco.citysegwaytours.com/contact" target="_self">Contact</a>				</div>
+				<div class="addy-phone"><p><span class="street_address"><a href="http://goo.gl/maps/gRnTO" target="_blank">333 Jefferson St., Suite 123San | Francisco, CA 94133 </a></span>&nbsp;<span class="phone_number">415.409.0672</span>&nbsp;<span class="phone_number">877.734.8687</span></p></div>
+				
+				<div class="sharing">
+					
+					<a href="mailto:?subject=Visit San Francisco Segway Tour | Sightseeing Tours | City Segway Tours - San Francisco	&amp;body=I was just visiting the San Francisco Segway Tour | Sightseeing Tours | City Segway Tours - San Francisco	 website, and I thought you should see it. Check it out at http://sanfrancisco.citysegwaytours.com/">Email Site To Friend</a><a href="javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It" class="pt">Send To Pinterest</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://sanfrancisco.citysegwaytours.com/&amp;title=San Francisco+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+San Francisco%09" target="_blank">Send To LinkedIn</a>
+					<a href="http://twitter.com/home?status=Check+out+this+link+at+San Francisco+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+San Francisco%09+-+http://sanfrancisco.citysegwaytours.com/" target="_blank">Send To Twitter</a>
+					<a href="http://www.facebook.com/sharer.php?u=http://sanfrancisco.citysegwaytours.com/%2F&amp;t=San Francisco+Segway+Tour+%7C+Sightseeing+Tours+%7C+City+Segway+Tours+-+San Francisco%09" target="_blank">Send To Facebook</a>	
+				</div>
+
+			</div>
+	
+		</div>
+		<div class="wrap copyright">
+		<p>City Segway Tours &nbsp;|  Copyright 2012-2014  |  All Rights Reserved<br/><a href="http://sanfrancisco.citysegwaytours.com/pages/terms-conditions/overview">Terms &amp; Conditions</a> | <a href="http://sanfrancisco.citysegwaytours.com/pages/terms-conditions/overview">We use cookies on this website. By using cookies you understand &amp; agree to these terms.</a></p>		</div>	
+	</div>
+<script>
+jQuery(document).ready(function(){ 
+jQuery('input[name="username"]').attr('placeholder','Username'); 
+jQuery('input[name="password"]').attr('placeholder','Password'); 
+});
+</script>
+<div class="wrap"><div>
