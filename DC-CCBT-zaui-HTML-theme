@@ -18,7 +18,7 @@
 			<li><a href="http://dc.capitalcitybiketours.com/" class="home">Home</a></li>
 			<li><a href="http://dc.capitalcitybiketours.com/tours" class="tour">Tours</a></li>
 			<li><a href="http://dc.capitalcitybiketours.com/private-tours" class="private-tours">Private Tours</a></li>
-			<!-- <li><a href="http://dc.capitalcitybiketours.com/specials" class="specials">Specials</a></li> -->
+			<a href="http://dc.capitalcitybiketours.com/specials" class="specials">Specials</a>
 			<li><a href="http://dc.capitalcitybiketours.com/why-us" class="why-us">Why Us?</a></li>
 			<li><a href="http://dc.capitalcitybiketours.com/faqs" class="faqs">FAQ's</a></li>
 			<li><a href="http://dc.citysegywaytours.com/blog" class="blog">Blog</a></li>
