@@ -586,7 +586,7 @@ body{
 	float: left;
 	height: 33px;
 	margin: 12px 16px;
-	width: 255px;
+	width: 290px;
 }
 #header .sharing a{
 	float: right;
