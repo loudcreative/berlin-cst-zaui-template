@@ -1,7 +1,7 @@
 <div id="header">
 		<div class="wrap">
 			<div class="sharing">
-						<!--<a href="#" target="_blank" class="instagram">Instagram</a>-->
+						<a href="http://instagram.com/citysegwaynola" target="_blank" class="instagram">Instagram</a>
 						<!--<a href="#" target="_blank" class="pinterest">Pinterest</a>-->
 						<!--<a href="http://neworleans.citysegwaytours.com/blog/" target="_blank" class="rss">RSS</a>-->
 						<a href="https://www.facebook.com/CitySegwayToursNOLA" target="_blank" class="facebook">Facebook</a>
@@ -21,7 +21,6 @@
 			<li><a href="http://neworleans.citysegwaytours.com/specials" class="specials">Specials</a></li>
 			<li><a href="http://neworleans.citysegwaytours.com/why-us" class="why-us">Why Us?</a></li>
 			<li><a href="http://neworleans.citysegwaytours.com/faqs" class="faqs">FAQ's</a></li>
-			<li><a href="http://neworleans.citysegwaytours.com/blog" class="blog">Blog</a></li>
 			<li><a href="http://neworleans.citysegwaytours.com/contact" class="contact">Contact</a></li>
 		</ul>
 	</div>
